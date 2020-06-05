@@ -1,4 +1,4 @@
-Django==2.0.9
+Django==2.2.13
 pytz==2018.6
 autopep8==1.4
 boto==2.49.0
